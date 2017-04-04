@@ -4,6 +4,7 @@ package TugasYabang;
  * Created by Raja T on 4/4/2017.
  */
 
+
 public class Queue {
     int ar[] = new int [10];
     int Tambah = -1;
